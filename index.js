@@ -1,3 +1,10 @@
+/*
+1.Create console log to test that sheet is linked
+2. Create string with assigned message
+3. Create different variables for number combination
+4. Create alert for HTML page with combination
+ */
+
 // test that js sheet is linked
 console.log(`Hello`);
 // create string that says You have received this message because you have been chosen to open an important vault. Here is the secret combination:

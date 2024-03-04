@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  background-color: lightgray;
+  padding: 5pt;
+  border-width: 2pt;
+  border-radius: 10pt;
+  border: solid snow;
+}
+body{
+  background: black;
+  display: flex;
+  justify-content: center;
+}
